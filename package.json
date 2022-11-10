@@ -1,0 +1,26 @@
+{
+  "name": "discord-bot",
+  "version": "1.0.0",
+  "description": "A Discord bot for my private Discord server.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/p-victor/discord-bot.git"
+  },
+  "keywords": [
+    "discord-bot"
+  ],
+  "author": "Victor Poirier",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/p-victor/discord-bot/issues"
+  },
+  "homepage": "https://github.com/p-victor/discord-bot#readme",
+  "dependencies": {
+    "discord.js": "^14.6.0",
+    "dotenv": "^16.0.3"
+  }
+}
